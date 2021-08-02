@@ -1,8 +1,0 @@
-window:
-  w: 800
-  h: 800
-  title: life
-physics:
-  enable: false
-graphics:
-  scale: 1
